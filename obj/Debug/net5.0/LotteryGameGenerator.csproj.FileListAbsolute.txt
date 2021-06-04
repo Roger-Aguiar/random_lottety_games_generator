@@ -1,0 +1,16 @@
+/home/roger/Desktop/Studies/MyProjects/LotteryGameGenerator/bin/Debug/net5.0/LotteryGameGenerator
+/home/roger/Desktop/Studies/MyProjects/LotteryGameGenerator/bin/Debug/net5.0/LotteryGameGenerator.deps.json
+/home/roger/Desktop/Studies/MyProjects/LotteryGameGenerator/bin/Debug/net5.0/LotteryGameGenerator.runtimeconfig.json
+/home/roger/Desktop/Studies/MyProjects/LotteryGameGenerator/bin/Debug/net5.0/LotteryGameGenerator.runtimeconfig.dev.json
+/home/roger/Desktop/Studies/MyProjects/LotteryGameGenerator/bin/Debug/net5.0/LotteryGameGenerator.dll
+/home/roger/Desktop/Studies/MyProjects/LotteryGameGenerator/bin/Debug/net5.0/ref/LotteryGameGenerator.dll
+/home/roger/Desktop/Studies/MyProjects/LotteryGameGenerator/bin/Debug/net5.0/LotteryGameGenerator.pdb
+/home/roger/Desktop/Studies/MyProjects/LotteryGameGenerator/obj/Debug/net5.0/LotteryGameGenerator.csproj.AssemblyReference.cache
+/home/roger/Desktop/Studies/MyProjects/LotteryGameGenerator/obj/Debug/net5.0/LotteryGameGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/home/roger/Desktop/Studies/MyProjects/LotteryGameGenerator/obj/Debug/net5.0/LotteryGameGenerator.AssemblyInfoInputs.cache
+/home/roger/Desktop/Studies/MyProjects/LotteryGameGenerator/obj/Debug/net5.0/LotteryGameGenerator.AssemblyInfo.cs
+/home/roger/Desktop/Studies/MyProjects/LotteryGameGenerator/obj/Debug/net5.0/LotteryGameGenerator.csproj.CoreCompileInputs.cache
+/home/roger/Desktop/Studies/MyProjects/LotteryGameGenerator/obj/Debug/net5.0/LotteryGameGenerator.dll
+/home/roger/Desktop/Studies/MyProjects/LotteryGameGenerator/obj/Debug/net5.0/ref/LotteryGameGenerator.dll
+/home/roger/Desktop/Studies/MyProjects/LotteryGameGenerator/obj/Debug/net5.0/LotteryGameGenerator.pdb
+/home/roger/Desktop/Studies/MyProjects/LotteryGameGenerator/obj/Debug/net5.0/LotteryGameGenerator.genruntimeconfig.cache

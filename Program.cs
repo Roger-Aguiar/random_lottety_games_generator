@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace LotteryGameGenerator
 {
@@ -6,7 +7,8 @@ namespace LotteryGameGenerator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            IGameGenerator gameGenerator = new GameGenerator(15, 1, 25);
+            List<int> game = gameGenerator.GenerateGame();
         }
     }
 }
