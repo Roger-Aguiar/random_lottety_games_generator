@@ -9,6 +9,9 @@ namespace LotteryGameGenerator
         {
             IGameGenerator gameGenerator = new GameGenerator(15, 1, 25);
             List<int> game = gameGenerator.GenerateGame();
+            
+            IGameLayout gameLayout = new GameLayout(game);
+            Console.WriteLine(gameLayout.GetLayoutGame());
         }
     }
 }
